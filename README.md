@@ -20,11 +20,11 @@ Project consists of ............................................................
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the program: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Launch the program step 1: <br/>
+<img src="https://imgur.com/Z8y9fKe"/>
 <br />
 <br />
-Select the disk:  <br/>
+Launch the program step 2: <br/>
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
