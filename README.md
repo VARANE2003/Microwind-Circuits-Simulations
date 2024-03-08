@@ -25,7 +25,7 @@ Launch the program step 1: <br/>
 <br />
 <br />
 Launch the program step 2: <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/FH5zeFs" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
