@@ -25,7 +25,7 @@ Launch the program step 1: <br/>
 <br />
 <br />
 Launch the program step 2: <br/>
-<img src="https://imgur.com/TUwF0HU.png" height="80%" width="80%" />
+<img src="https://imgur.com/FF5JzBL.png" height="80%" width="80%" />
 <br />
 <br />
 
