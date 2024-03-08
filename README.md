@@ -21,11 +21,11 @@ Project consists of ............................................................
 
 <p align="center">
 Launch the program step 1: <br/>
-<img src="https://imgur.com/Z8y9fKe"/>
+<img src="https://imgur.com/Z8y9fKe.png"/>
 <br />
 <br />
 Launch the program step 2: <br/>
-<img src="https://imgur.com/a/FH5zeFs" height="80%" width="80%" />
+<img src="https://imgur.com/a/FH5zeFs.png" height="80%" width="80%" />
 <br />
 <br />
 
