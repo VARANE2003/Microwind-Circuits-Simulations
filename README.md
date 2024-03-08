@@ -10,12 +10,12 @@ Project consists of ............................................................
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Microwind Simulator</b> 
+- <b>None</b> 
 
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> 
+- <b>Microwind Simulator</b> 
 
 <h2>Program walk-through:</h2>
 
