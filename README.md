@@ -3,8 +3,7 @@
  
 
 <h2>Description</h2>
-Project consists of ........................................................................
-
+Purpose of this project is the implementation of various basic or even complicated circuits in Microwind. Emphasis is put on finding efficient ways of circuit design that take into account speed, power consumption and other factors.
 <br />
 
 
