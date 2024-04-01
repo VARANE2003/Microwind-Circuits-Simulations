@@ -1,5 +1,5 @@
-VERSION 3/1/2024 1:11:11 μμ
-FIG #C:\Users\mpamp\OneDrive\Υπολογιστής\microwind\nand.MSK
+VERSION 3/1/2024 1:11:11 Γ¬Γ¬
+FIG #C:\Users\mpamp\OneDrive\Γ•Γ°Γ―Γ«Γ―Γ£Γ©Γ³Γ΄ΓΓ²\microwind\nand.MSK
 BB(115,28,141,75)
 SIMU #50.00
 ZOOM(100,13,146,80)
@@ -53,4 +53,4 @@ TITLE 132 42  #B
 $c 1000 0 12.7900 12.8000 25.5900 25.6000 
 TITLE 128 30  #Vss
 $0 1000 0 
-FFIG C:\Users\mpamp\OneDrive\Υπολογιστής\microwind\nand.MSK
+FFIG C:\Users\mpamp\OneDrive\Γ•Γ°Γ―Γ«Γ―Γ£Γ©Γ³Γ΄ΓΓ²\microwind\nand.MSK
