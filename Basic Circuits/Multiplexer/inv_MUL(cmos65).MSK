@@ -1,5 +1,5 @@
-VERSION 28/11/2023 12:13:18 μμ
-FIG #C:\Users\mpamp\OneDrive\Υπολογιστής\microwind\task5.MSK
+VERSION 28/11/2023 12:13:18 Γ¬Γ¬
+FIG #C:\Users\mpamp\OneDrive\Γ•Γ°Γ―Γ«Γ―Γ£Γ©Γ³Γ΄ΓΓ²\microwind\task5.MSK
 BB(30,-19,154,59)
 SIMU #100.00
 ZOOM(24,-24,159,64)
@@ -159,4 +159,4 @@ TITLE 78 46  #vdd
 $1 1000 0 
 TITLE 123 11  #inv_multiplexer
 $- 1000 0 
-FFIG C:\Users\mpamp\OneDrive\Υπολογιστής\microwind\task5.MSK
+FFIG C:\Users\mpamp\OneDrive\Γ•Γ°Γ―Γ«Γ―Γ£Γ©Γ³Γ΄ΓΓ²\microwind\task5.MSK
