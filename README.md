@@ -16,7 +16,7 @@ Purpose of this project is the implementation of various basic or even complicat
 
 - <b>Microwind Simulator</b> 
 
-<h2>Program Screenshots:</h2>
+<h2>Environment Screenshots:</h2>
 
 <p align="center">
 Pic 1: <br/>
