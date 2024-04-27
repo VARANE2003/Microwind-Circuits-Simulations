@@ -1,5 +1,5 @@
-VERSION 27/4/2024 4:58:06 μμ
-FIG #C:\Users\mpamp\OneDrive\Υπολογιστής\ΣΧΟΛΗ\5TH SEMESTER\ΕΙΣΑΓΩΓΗ ΣΕ VLSI(CEID_ΝΕ4648)\microwind\ασκηση4\PART2\PART2-circuit-b.MSK
+VERSION 27/4/2024 4:58:06 η¥†
+FIG #C:\Users\mpamp\OneDrive\ι‡ι•«ι•Άθ½¶θ‰®ι¨–εΉΌηΊ¤θΊ5TH SEMESTER\ζ΄ΎζΏθ§…δ»¬ δΌ VLSI(CEID_ε›Ά4648)\microwind\η‹θµ™η®Έ4\PART2\PART2-circuit-b.MSK
 BB(155,-57,304,56)
 SIMU #500.00
 ZOOM(148,-62,311,61)
@@ -143,7 +143,7 @@ TITLE 164 -19  #A
 $c 1250 0 12.7900 12.8000 25.5900 25.6000 
 TITLE 168 -56  #Vss
 $0 1000 0 
-TITLE 214 -43  #Ε
+TITLE 214 -43  #οΏ½
 $c 1250 0 204.7900 204.8000 409.5900 409.6000 
 TITLE 206 -43  #D
 $c 1250 0 102.3900 102.4000 204.7900 204.8000 
@@ -151,4 +151,4 @@ TITLE 222 -43  #F
 $c 1250 0 409.5900 409.6000 819.1900 819.2000 
 TITLE 256 -19  #and
 $v 1000 0 
-FFIG C:\Users\mpamp\OneDrive\Υπολογιστής\ΣΧΟΛΗ\5TH SEMESTER\ΕΙΣΑΓΩΓΗ ΣΕ VLSI(CEID_ΝΕ4648)\microwind\ασκηση4\PART2\PART2-circuit-b.MSK
+FFIG C:\Users\mpamp\OneDrive\ι‡ι•«ι•Άθ½¶θ‰®ι¨–εΉΌηΊ¤θΊ5TH SEMESTER\ζ΄ΎζΏθ§…δ»¬ δΌ VLSI(CEID_ε›Ά4648)\microwind\η‹θµ™η®Έ4\PART2\PART2-circuit-b.MSK
