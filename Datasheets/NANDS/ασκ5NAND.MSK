@@ -1,5 +1,5 @@
-VERSION 1/5/2024 1:06:38 πμ
-FIG #C:\Users\mpamp\OneDrive\Υπολογιστής\ΣΧΟΛΗ\5TH SEMESTER\ΕΙΣΑΓΩΓΗ ΣΕ VLSI(CEID_ΝΕ4648)\microwind\ασκηση5\ασκ5NAND.MSK
+VERSION 1/5/2024 1:06:38 Γ°Γ¬
+FIG #C:\Users\mpamp\OneDrive\Γ•Γ°Γ―Γ«Γ―Γ£Γ©Γ³Γ΄ΓΓ²\Γ“Γ—ΓΓ‹Γ‡\5TH SEMESTER\Γ…Γ‰Γ“ΓΓƒΓ™ΓƒΓ‡ Γ“Γ… VLSI(CEID_ΓΓ…4648)\microwind\Γ΅Γ³ΓªΓ§Γ³Γ§5\Γ΅Γ³Γª5NAND.MSK
 BB(-21,-123,149,101)
 SIMU #50.00
 ZOOM(-45,-134,157,112)
@@ -141,4 +141,4 @@ TITLE 130 -122  #Vss
 $0 1000 0 
 TITLE 127 -16  #NAND8
 $v 1000 0 
-FFIG C:\Users\mpamp\OneDrive\Υπολογιστής\ΣΧΟΛΗ\5TH SEMESTER\ΕΙΣΑΓΩΓΗ ΣΕ VLSI(CEID_ΝΕ4648)\microwind\ασκηση5\ασκ5NAND.MSK
+FFIG C:\Users\mpamp\OneDrive\Γ•Γ°Γ―Γ«Γ―Γ£Γ©Γ³Γ΄ΓΓ²\Γ“Γ—ΓΓ‹Γ‡\5TH SEMESTER\Γ…Γ‰Γ“ΓΓƒΓ™ΓƒΓ‡ Γ“Γ… VLSI(CEID_ΓΓ…4648)\microwind\Γ΅Γ³ΓªΓ§Γ³Γ§5\Γ΅Γ³Γª5NAND.MSK
