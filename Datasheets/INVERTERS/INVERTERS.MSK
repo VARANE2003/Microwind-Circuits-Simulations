@@ -1,5 +1,5 @@
-VERSION 30/4/2024 11:12:15 μμ
-FIG #C:\Users\mpamp\OneDrive\Υπολογιστής\ΣΧΟΛΗ\5TH SEMESTER\ΕΙΣΑΓΩΓΗ ΣΕ VLSI(CEID_ΝΕ4648)\microwind\ασκηση5\ασκ5INVERTER.MSK
+VERSION 30/4/2024 11:12:15 Γ¬Γ¬
+FIG #C:\Users\mpamp\OneDrive\Γ•Γ°Γ―Γ«Γ―Γ£Γ©Γ³Γ΄ΓΓ²\Γ“Γ—ΓΓ‹Γ‡\5TH SEMESTER\Γ…Γ‰Γ“ΓΓƒΓ™ΓƒΓ‡ Γ“Γ… VLSI(CEID_ΓΓ…4648)\microwind\Γ΅Γ³ΓªΓ§Γ³Γ§5\Γ΅Γ³Γª5INVERTER.MSK
 BB(12,-95,141,85)
 SIMU #50.00
 ZOOM(-6,-104,147,94)
@@ -112,4 +112,4 @@ TITLE 132 -94  #Vss
 $0 1000 0 
 TITLE 122 79  #Vdd
 $1 1000 0 
-FFIG C:\Users\mpamp\OneDrive\Υπολογιστής\ΣΧΟΛΗ\5TH SEMESTER\ΕΙΣΑΓΩΓΗ ΣΕ VLSI(CEID_ΝΕ4648)\microwind\ασκηση5\ασκ5INVERTER.MSK
+FFIG C:\Users\mpamp\OneDrive\Γ•Γ°Γ―Γ«Γ―Γ£Γ©Γ³Γ΄ΓΓ²\Γ“Γ—ΓΓ‹Γ‡\5TH SEMESTER\Γ…Γ‰Γ“ΓΓƒΓ™ΓƒΓ‡ Γ“Γ… VLSI(CEID_ΓΓ…4648)\microwind\Γ΅Γ³ΓªΓ§Γ³Γ§5\Γ΅Γ³Γª5INVERTER.MSK
